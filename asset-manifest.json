@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/tilesgameonline/static/css/main.826577cb.chunk.css",
+    "main.js": "/tilesgameonline/static/js/main.390af788.chunk.js",
+    "main.js.map": "/tilesgameonline/static/js/main.390af788.chunk.js.map",
+    "runtime-main.js": "/tilesgameonline/static/js/runtime-main.d9158c6a.js",
+    "runtime-main.js.map": "/tilesgameonline/static/js/runtime-main.d9158c6a.js.map",
+    "static/js/2.ff7ea2dd.chunk.js": "/tilesgameonline/static/js/2.ff7ea2dd.chunk.js",
+    "static/js/2.ff7ea2dd.chunk.js.map": "/tilesgameonline/static/js/2.ff7ea2dd.chunk.js.map",
+    "static/js/3.41c6cc3b.chunk.js": "/tilesgameonline/static/js/3.41c6cc3b.chunk.js",
+    "static/js/3.41c6cc3b.chunk.js.map": "/tilesgameonline/static/js/3.41c6cc3b.chunk.js.map",
+    "index.html": "/tilesgameonline/index.html",
+    "static/css/main.826577cb.chunk.css.map": "/tilesgameonline/static/css/main.826577cb.chunk.css.map",
+    "static/js/2.ff7ea2dd.chunk.js.LICENSE.txt": "/tilesgameonline/static/js/2.ff7ea2dd.chunk.js.LICENSE.txt",
+    "static/media/angular.e8e41489.jpg": "/tilesgameonline/static/media/angular.e8e41489.jpg",
+    "static/media/css.7ecfca9e.jpg": "/tilesgameonline/static/media/css.7ecfca9e.jpg",
+    "static/media/defaultTile.6910195b.png": "/tilesgameonline/static/media/defaultTile.6910195b.png",
+    "static/media/graphql.2ac00c2d.jpg": "/tilesgameonline/static/media/graphql.2ac00c2d.jpg",
+    "static/media/js.cb65fd27.jpg": "/tilesgameonline/static/media/js.cb65fd27.jpg",
+    "static/media/react.876a36bf.jpg": "/tilesgameonline/static/media/react.876a36bf.jpg",
+    "static/media/redux.4516fe25.jpg": "/tilesgameonline/static/media/redux.4516fe25.jpg",
+    "static/media/vue.1a559326.jpg": "/tilesgameonline/static/media/vue.1a559326.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9158c6a.js",
+    "static/js/2.ff7ea2dd.chunk.js",
+    "static/css/main.826577cb.chunk.css",
+    "static/js/main.390af788.chunk.js"
+  ]
+}
